@@ -1,0 +1,148 @@
+16.4.2023, 18:27:11 	 Route / not exist
+-------------------------------
+16.4.2023, 18:27:11 	 Route /favicon.ico not exist
+-------------------------------
+10.5.2023, 19:00:30 	 Route /api/meetings not exist
+-------------------------------
+10.5.2023, 19:01:34 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:02:16 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:02:57 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:04:31 	 Route /api/meetings-per-development-group/1 not exist
+-------------------------------
+10.5.2023, 19:06:40 	 Route /api/meetings-per-development-group/1 not exist
+-------------------------------
+10.5.2023, 19:06:50 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:07:47 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:07:50 	 Route /api/meetings-per-development-group/1 not exist
+-------------------------------
+10.5.2023, 19:07:55 	 Route /api/meetings-per-development-group/1 not exist
+-------------------------------
+10.5.2023, 19:12:24 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:13:17 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:15:43 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:16:48 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:17:54 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:17:55 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:21:14 	 Route /api/meetings-per-development-group/1 not exist
+-------------------------------
+10.5.2023, 19:21:21 	 Route /api/meetings-per-development-group/1 not exist
+-------------------------------
+10.5.2023, 19:21:26 	 Route /api/meetings-per-development-group/1 not exist
+-------------------------------
+10.5.2023, 19:28:27 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:29:57 	 Route /api/meetings not exist
+-------------------------------
+10.5.2023, 19:31:14 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:36:43 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:38:55 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 19:55:25 	 Route /api/devlopment-group not exist
+-------------------------------
+10.5.2023, 20:00:20 	 Route /api/groups not exist
+-------------------------------
+10.5.2023, 20:02:28 	 Route /api/groups not exist
+-------------------------------
+10.5.2023, 20:02:58 	 Route /api/devlopment-groups not exist
+-------------------------------
+10.5.2023, 20:16:29 	 Route /api/meetings-per-development-group/1 not exist
+-------------------------------
+10.5.2023, 20:25:43 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:25:43 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:25:49 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:25:49 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:31:16 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:33:39 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:33:40 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:33:41 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:33:42 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:34:19 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:34:19 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:34:23 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:34:23 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:34:28 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:34:28 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:34:39 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:34:39 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:38:10 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:38:14 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:38:14 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:39:49 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:39:49 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:39:59 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:39:59 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:41:47 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:41:47 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:43:03 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`dailyplanner`.`meetingschedule`, CONSTRAINT `meetingschedule_ibfk_1` FOREIGN KEY (`developmentGroupId`) REFERENCES `developmentgroups` (`developmentGroupId`))
+-------------------------------
+10.5.2023, 20:55:31 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 20:55:31 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:00:47 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:00:47 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:01:21 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:01:21 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:05:04 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:05:04 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:10:12 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:10:12 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:10:52 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:10:52 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:12:19 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:12:19 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:12:46 	 Route /api/devlopment-group/ not exist
+-------------------------------
+10.5.2023, 21:12:46 	 Route /api/devlopment-group/ not exist
+-------------------------------
